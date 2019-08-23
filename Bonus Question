@@ -1,0 +1,23 @@
+Technology Stack used for theScore APP:
+
+        The Score App is a Native App. I have created a zip File out of the .APK File and 
+        inspected the extracted file. Based on my understanding, the below technology stack has been used 
+              Front-end:
+                 • Kotlin
+                 • Java script
+                 • HTML/CSS
+                 
+              Back-end:
+                 • Google Firebase
+                 
+              Service-layer:
+                • Rest-API 
+                 
+Kotlin: Kotlin is a an open source programming language for android Development that combines the object oriented programming.
+
+Rest-API : It acts as a midlle layer between the Presentation layer and back-end. Any action that is performed
+on the Presentation layer in turn calls the Service layer that is the Rest API where the actual logic lies.which 
+in turn calls the back end layer.It fetches the information from the Back end and presents it to the user. 
+
+
+   

@@ -1,0 +1,44 @@
+
+Additional TestCases:	
+
+   1. Verify the Score on the NHL Page
+        • Launch The Score APP in Mobile
+        • Sign in with user email and password
+        • Go to the Score Tab
+        • Go to the NHL Hockey
+        • Verify the NHL Title
+        • Click on the MATCHUP and verify the Score
+
+
+   2. Verify the Save Message on the News Tab
+        • Launch The Score APP in Mobile
+        • Sign in with user email and password
+        • Select the MLB Tab
+        • Save any one of the News by clicking the Save Button
+        • Verify 'Saved to your bookmarks' message is displayed
+
+   3. Verify the "Rebounds" text  is present in Discover tab
+        • Launch The Score APP in Mobile
+        • Sign in with user email and password
+        • Click on the Discover Tab
+        • Type the "Chicago Bulls" on the Seach text box 
+        • Verify the "Chicago Bulls" title is present
+        • Clcik on the "TEAM STATS"
+        • Verify the "Rebounds" is present 
+
+    4. Verify ToggleBar Move
+        • Launch The Score APP in Mobile
+        • Sign in with user email and password
+        • Go to the Favourites Tab
+        • Click on the Filter option
+        • Verify "Favourites Feed Filter" text is present
+        • Move the  "theScore News" Toggle bar
+        • Click on the Done button
+
+     5. Verify Scoring Average
+         • Launch The Score APP in Mobile
+         • Sign in with user email and password
+         • Go to the League Tab
+         • Click on the PGA Tour
+         • Click on the Leaders Tab
+         • Verify the Scoring Average Text is present
